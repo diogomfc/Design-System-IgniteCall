@@ -1,0 +1,4 @@
+{
+  "name": "@diogomfc-ui/ts-config/react.json",
+  "include": ["src"]
+}
